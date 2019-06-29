@@ -1,0 +1,7 @@
+package com.test04;
+
+public class ProtocolException extends Exception {
+    public ProtocolException(String message) {
+        super(message);
+    }
+}
